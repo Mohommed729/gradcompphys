@@ -47,7 +47,6 @@ The four unit assignments are primarily Jupyter notebooks with guided exercises 
 
 **Project 1:** Fitting Bottomonium from CMS [project1-template](https://github.com/WM-PHYS690-Fall2026/project1-template)
 
-<!--
 ## Unit 3: Numerical Methods for Physical Systems
 
 **Unit goal:** Implement numerical methods for physical systems and assess convergence, stability, boundary conditions, and discretization error.
@@ -56,12 +55,14 @@ Stability, step-size control, conserved quantities, and particle/trajectory inte
 
 | Date | Lecture and working focus | Milestone |
 | --- | --- | --- |
-| Tue, Oct. 6 | Finite differences for boundary-value problems and PDEs; grids and boundary conditions | Assignment 3: ODE and stability exercises |
+| Tue, Oct. 6 | [Finite differences for boundary-value problems and PDEs; grids and boundary conditions](./lectures/lecture11_10_6_26_bvp_pde.ipynb) |  |
 | Thu, Oct. 8 | No lecture (Fall Break) |  |
-| Tue, Oct. 13 | No lecture (DNP Meeting) |  |
+| Tue, Oct. 13 | Applications with initial and boundary-value problems |  |
 | Thu, Oct. 15 | Linear algebra and numerical eigensystems; conditioning and physical interpretation | Assignment 3 due |
 | Tue, Oct. 20 | FFTs and spectral analysis; resolution, aliasing, and discretization choices | Project 3 proposal/checkpoint due; Project 3 studio |
 | Thu, Oct. 22 | Verification versus validation; convergence studies; stability and error reporting | Project 3 repository/report due; short demonstrations |
+
+<!--
 
 **Assignment 3 plan:** A guided notebook comparing numerical methods on an ODE or finite-difference problem. Exercises will require students to vary resolution or step size, examine stability and convergence, compare with an analytic or benchmark solution, and interpret an eigensystem or FFT result.
 
