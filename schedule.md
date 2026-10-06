@@ -56,11 +56,11 @@ Stability, step-size control, conserved quantities, and particle/trajectory inte
 | Date | Lecture and working focus | Milestone |
 | --- | --- | --- |
 | Tue, Oct. 6 | [Finite differences for boundary-value problems and PDEs; grids and boundary conditions](./lectures/lecture11_10_6_26_bvp_pde.ipynb) |  |
-| Thu, Oct. 8 | No lecture (Fall Break) |  |
-| Tue, Oct. 13 | Applications with initial and boundary-value problems |  |
+| Thu, Oct. 8 | No lecture (Fall Break) | Assignment 3 available |
+| Tue, Oct. 13 | Applications with initial and boundary-value problems | Project 3 available |
 | Thu, Oct. 15 | Linear algebra and numerical eigensystems; conditioning and physical interpretation | Assignment 3 due |
-| Tue, Oct. 20 | FFTs and spectral analysis; resolution, aliasing, and discretization choices | Project 3 proposal/checkpoint due; Project 3 studio |
-| Thu, Oct. 22 | Verification versus validation; convergence studies; stability and error reporting | Project 3 repository/report due; short demonstrations |
+| Tue, Oct. 20 | FFTs and spectral analysis; resolution, aliasing, and discretization choices |  |
+| Thu, Oct. 22 | Verification versus validation; convergence studies; stability and error reporting | Project 3 due |
 
 <!--
 
