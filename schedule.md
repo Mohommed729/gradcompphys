@@ -51,16 +51,14 @@ The four unit assignments are primarily Jupyter notebooks with guided exercises 
 
 **Unit goal:** Implement numerical methods for physical systems and assess convergence, stability, boundary conditions, and discretization error.
 
-Stability, step-size control, conserved quantities, and particle/trajectory integration
-
 | Date | Lecture and working focus | Milestone |
 | --- | --- | --- |
 | Tue, Oct. 6 | [Finite differences for boundary-value problems and PDEs; grids and boundary conditions](./lectures/lecture11_10_6_26_bvp_pde.ipynb) |  |
 | Thu, Oct. 8 | No lecture (Fall Break) | Assignment 3 available |
-| Tue, Oct. 13 | Applications with initial and boundary-value problems | Project 3 available |
-| Thu, Oct. 15 | Linear algebra and numerical eigensystems; conditioning and physical interpretation | Assignment 3 due |
-| Tue, Oct. 20 | FFTs and spectral analysis; resolution, aliasing, and discretization choices |  |
-| Thu, Oct. 22 | Verification versus validation; convergence studies; stability and error reporting | Project 3 due |
+| Tue, Oct. 13 | No lecture (JLab workshop) | Project 3 available |
+| Thu, Oct. 15 | Applications with initial and boundary-value problems | Assignment 3 due |
+| Tue, Oct. 20 | Linear algebra and numerical eigensystems; conditioning and physical interpretation |  |
+| Thu, Oct. 22 | FFTs and spectral analysis; resolution, aliasing, and discretization choices | Project 3 due |
 
 <!--
 
