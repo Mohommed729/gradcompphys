@@ -54,17 +54,17 @@ The four unit assignments are primarily Jupyter notebooks with guided exercises 
 | Date | Lecture and working focus | Milestone |
 | --- | --- | --- |
 | Tue, Oct. 6 | [Finite differences for boundary-value problems and PDEs; grids and boundary conditions](./lectures/lecture11_10_6_26_bvp_pde.ipynb) |  |
-| Thu, Oct. 8 | No lecture (Fall Break) | Assignment 3 available |
-| Tue, Oct. 13 | No lecture (JLab workshop) | Project 3 available |
-| Thu, Oct. 15 | Applications with initial and boundary-value problems | Assignment 3 due |
+| Thu, Oct. 8 | No lecture (Fall Break) |  |
+| Tue, Oct. 13 | No lecture (JLab workshop) |  |
+| Thu, Oct. 15 | [Applications of initial- and boundary-value problems to fields and particles](./lectures/lecture12_10_15_26.ipynb) | Assignment 3 available |
 | Tue, Oct. 20 | Linear algebra and numerical eigensystems; conditioning and physical interpretation |  |
-| Thu, Oct. 22 | FFTs and spectral analysis; resolution, aliasing, and discretization choices | Project 3 due |
+| Thu, Oct. 22 | FFTs and spectral analysis; resolution, aliasing, and discretization choices | Assignment 3 due |
+
+**Assignment 3:** Particle Charge Deposition and a Poisson Field Solver [assignment3-template](https://github.com/WM-PHYS690-Fall2026/assignment3-template)
 
 <!--
 
-**Assignment 3 plan:** A guided notebook comparing numerical methods on an ODE or finite-difference problem. Exercises will require students to vary resolution or step size, examine stability and convergence, compare with an analytic or benchmark solution, and interpret an eigensystem or FFT result.
-
-**Project 3 plan:** An open-ended numerical-methods project such as a field or wave-equation solver, particle or trajectory integrator, numerical eigensystem problem, or spectral analysis of time-series or field data. Students must show how algorithmic choices affect the result and include a quantitative convergence, stability, or benchmark study.
+**Project 2 plan:** An open-ended numerical-methods project such as a field or wave-equation solver, particle or trajectory integrator, numerical eigensystem problem, or spectral analysis of time-series or field data. Students must show how algorithmic choices affect the result and include a quantitative convergence, stability, or benchmark study.
 
 ## Unit 4: Monte Carlo, Stochastic Methods, and Inference
 
@@ -81,7 +81,7 @@ The four unit assignments are primarily Jupyter notebooks with guided exercises 
 
 **Assignment 4 plan:** A guided notebook that estimates an integral or physical quantity by sampling, propagates uncertain inputs through a nonlinear model, and uses a small MCMC analysis to visualize and diagnose a posterior. Students should report sampling error and discuss at least one diagnostic limitation.
 
-**Project 4 plan:** An open-ended Monte Carlo or inference project such as Monte Carlo uncertainty propagation or Bayesian inference for a physics model. The project should state the sampling or inference target, justify the likelihood and any priors, show posterior or output diagnostics, and distinguish numerical sampling uncertainty from physical or measurement uncertainty.
+**Project 3 plan:** An open-ended Monte Carlo or inference project such as Monte Carlo uncertainty propagation or Bayesian inference for a physics model. The project should state the sampling or inference target, justify the likelihood and any priors, show posterior or output diagnostics, and distinguish numerical sampling uncertainty from physical or measurement uncertainty.
 
 ## Unit 5: Capstone Project
 
