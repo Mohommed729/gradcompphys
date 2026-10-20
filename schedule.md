@@ -57,8 +57,8 @@ The four unit assignments are primarily Jupyter notebooks with guided exercises 
 | Thu, Oct. 8 | No lecture (Fall Break) |  |
 | Tue, Oct. 13 | No lecture (JLab workshop) |  |
 | Thu, Oct. 15 | [Applications of initial- and boundary-value problems to fields and particles](./lectures/lecture12_10_15_26.ipynb) | Assignment 3 available |
-| Tue, Oct. 20 | Linear algebra and numerical eigensystems; conditioning and physical interpretation |  |
-| Thu, Oct. 22 | FFTs and spectral analysis; resolution, aliasing, and discretization choices | Assignment 3 due Oct. 23 |
+| Tue, Oct. 20 | [Hermitian quantum eigensystems; harmonic oscillators, convergence, and near-degeneracy](./lectures/lecture13_eigen_10_20_26.ipynb) |  |
+| Thu, Oct. 22 | [FFT analysis of an electromagnetic cavity field; spectral resolution and aliasing](./lectures/lecture14_fft_10_22_26.ipynb) | Assignment 3 due Oct. 23 |
 
 **Assignment 3:** Particle Charge Deposition and a Poisson Field Solver [assignment3-template](https://github.com/WM-PHYS690-Fall2026/assignment3-template).  Due: Friday, October 23
 

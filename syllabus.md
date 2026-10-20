@@ -48,7 +48,7 @@ Random sampling, Monte Carlo integration, stochastic simulation, uncertainty pro
 
 ### Unit 5: Capstone Project
 
-Each student or small team completes a computational research project in their field of interest. The capstone requires a clear physics question, a documented computational method, validation tests, uncertainty analysis, reproducibility instructions, and a final presentation.
+Each student completes a computational research project in their field of interest. The capstone requires a clear physics question, a documented computational method, validation tests, uncertainty analysis, reproducibility instructions, and a final presentation.
 
 ## Assessment
 
