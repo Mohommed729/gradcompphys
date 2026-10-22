@@ -58,13 +58,13 @@ The four unit assignments are primarily Jupyter notebooks with guided exercises 
 | Tue, Oct. 13 | No lecture (JLab workshop) |  |
 | Thu, Oct. 15 | [Applications of initial- and boundary-value problems to fields and particles](./lectures/lecture12_10_15_26.ipynb) | Assignment 3 available |
 | Tue, Oct. 20 | [Hermitian quantum eigensystems; harmonic oscillators, convergence, and near-degeneracy](./lectures/lecture13_eigen_10_20_26.ipynb) |  |
-| Thu, Oct. 22 | [FFT analysis of an electromagnetic cavity field; spectral resolution and aliasing](./lectures/lecture14_fft_10_22_26.ipynb) | Assignment 3 due Oct. 23 |
+| Thu, Oct. 22 | [FFT fundamentals and periodic field solvers; time-angular-frequency analysis and Fourier-space Poisson equations](./lectures/lecture14_fft_10_22_26.ipynb) | Assignment 3 due Oct. 23 |
 
 **Assignment 3:** Particle Charge Deposition and a Poisson Field Solver [assignment3-template](https://github.com/WM-PHYS690-Fall2026/assignment3-template).  Due: Friday, October 23
 
 <!--
-
 **Project 2 plan:** An open-ended numerical-methods project such as a field or wave-equation solver, particle or trajectory integrator, numerical eigensystem problem, or spectral analysis of time-series or field data. Students must show how algorithmic choices affect the result and include a quantitative convergence, stability, or benchmark study.
+-->
 
 ## Unit 4: Monte Carlo, Stochastic Methods, and Inference
 
@@ -72,13 +72,14 @@ The four unit assignments are primarily Jupyter notebooks with guided exercises 
 
 | Date | Lecture and working focus | Milestone |
 | --- | --- | --- |
-| Tue, Oct. 27 | Pseudorandom numbers, sampling, Monte Carlo integration, and error scaling | Introduce Assignment 4 and inference project options |
-| Thu, Oct. 29 | Stochastic simulation and Monte Carlo uncertainty propagation... Likelihoods and priors; posterior distributions; credible intervals and posterior visualization | Assignment 4: sampling and propagation exercises |
-| Tue, Nov. 3 | No lecture (Election Day) | Assignment 4 workshop |
-| Thu, Nov. 5 | MCMC algorithms, autocorrelation, effective sample size, and convergence diagnostics | Assignment 4 due; project planning |
-| Tue, Nov. 10 | Bayesian model checking, sensitivity to priors, and communicating posterior results | Project 4 proposal/checkpoint due; Project 4 studio |
-| Thu, Nov. 12 | Comparing stochastic methods; failure modes; short project presentations | Project 4 repository/report due |
+| Tue, Oct. 27 | Pseudorandom numbers, sampling, Monte Carlo integration, and error scaling | Introduce Assignment 4 |
+| Thu, Oct. 29 | Stochastic simulation and Monte Carlo uncertainty propagation.  |  |
+| Tue, Nov. 3 | No lecture (Election Day) |  |
+| Thu, Nov. 5 | Likelihoods and priors; posterior distributions; credible intervals and posterior visualization. | Assignment 4 due, Introduce Project 2 |
+| Tue, Nov. 10 | MCMC algorithms, autocorrelation, effective sample size, and convergence diagnostics  |  |
+| Thu, Nov. 12 | Bayesian model checking, sensitivity to priors, and communicating posterior results |  |
 
+<!--
 **Assignment 4 plan:** A guided notebook that estimates an integral or physical quantity by sampling, propagates uncertain inputs through a nonlinear model, and uses a small MCMC analysis to visualize and diagnose a posterior. Students should report sampling error and discuss at least one diagnostic limitation.
 
 **Project 3 plan:** An open-ended Monte Carlo or inference project such as Monte Carlo uncertainty propagation or Bayesian inference for a physics model. The project should state the sampling or inference target, justify the likelihood and any priors, show posterior or output diagnostics, and distinguish numerical sampling uncertainty from physical or measurement uncertainty.
