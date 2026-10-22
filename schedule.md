@@ -40,7 +40,7 @@ The four unit assignments are primarily Jupyter notebooks with guided exercises 
 | Thu, Sep. 17 | [Goodness of fit, model comparison, and hypothesis testing](./lectures/lecture07_9_17_26_goodness_model_comparison_hypothesis_testing.ipynb) | Introduce [Assignment 2](https://github.com/WM-PHYS690-Fall2026/assignment2-template) |
 | Tue, Sep. 22 | [Likelihood fits, bootstrap and jackknife resampling; uncertainty propagation](./lectures/lecture08_9_22_26_bootstrap_jackknife_uncertainty.ipynb) | Introduce [Project 1](https://github.com/WM-PHYS690-Fall2026/project1-template) |
 | Thu, Sep. 24 | [HPC workflow and resources](./lectures/lecture09_9_24_26_wm_hpc.ipynb) | Assignment 2 due |
-| Tue, Sep. 29 | [Initial-value ODEs; Euler, midpoint, and Runge-Kutta methods; local and global error](./lectures/lecture10_ivp_ode.ipynb) |  |
+| Tue, Sep. 29 | [Initial-value ODEs; Euler, midpoint, and Runge-Kutta methods; local and global error](./lectures/lecture10_9_29_26_ivp_ode.ipynb) |  |
 | Thu, Oct. 1 | No lecture (GlueX Collaboration Meeting) | Project 1 repository due |
 
 **Assignment 2:** Fitting Pantheon Supernova [assignment2-template](https://github.com/WM-PHYS690-Fall2026/assignment2-template)
@@ -72,17 +72,17 @@ The four unit assignments are primarily Jupyter notebooks with guided exercises 
 
 | Date | Lecture and working focus | Milestone |
 | --- | --- | --- |
-| Tue, Oct. 27 | Pseudorandom numbers, sampling, Monte Carlo integration, and error scaling | Introduce Assignment 4 |
-| Thu, Oct. 29 | Stochastic simulation and Monte Carlo uncertainty propagation.  |  |
+| Tue, Oct. 27 | [Monte Carlo sampling and integration; pseudorandom generators, error scaling, and variance reduction](./lectures/lecture15_10_27_26_monte_carlo.ipynb) | Introduce Assignment 4 |
+| Thu, Oct. 29 | [Stochastic Ramsey experiments and Monte Carlo uncertainty propagation](./lectures/lecture16_10_29_26_stochastic_uncertainty.ipynb) |  |
 | Tue, Nov. 3 | No lecture (Election Day) |  |
-| Thu, Nov. 5 | Likelihoods and priors; posterior distributions; credible intervals and posterior visualization. | Assignment 4 due, Introduce Project 2 |
-| Tue, Nov. 10 | MCMC algorithms, autocorrelation, effective sample size, and convergence diagnostics  |  |
-| Thu, Nov. 12 | Bayesian model checking, sensitivity to priors, and communicating posterior results |  |
+| Thu, Nov. 5 | [Likelihoods, priors, grid posteriors, marginalization, credible intervals, and MAP estimation](./lectures/lecture17_11_5_26_bayesian_inference.ipynb) | Assignment 4 due; introduce Project 4 |
+| Tue, Nov. 10 | [Metropolis-Hastings MCMC, autocorrelation, effective sample size, and convergence diagnostics](./lectures/lecture18_11_10_26_mcmc_diagnostics.ipynb) | Project 4 checkpoint |
+| Thu, Nov. 12 | [Posterior predictive checks, prior sensitivity, scientific reporting, and normalizing flows](./lectures/lecture19_11_12_26_model_checking_flows.ipynb) | Project 4 due |
 
 <!--
 **Assignment 4 plan:** A guided notebook that estimates an integral or physical quantity by sampling, propagates uncertain inputs through a nonlinear model, and uses a small MCMC analysis to visualize and diagnose a posterior. Students should report sampling error and discuss at least one diagnostic limitation.
 
-**Project 3 plan:** An open-ended Monte Carlo or inference project such as Monte Carlo uncertainty propagation or Bayesian inference for a physics model. The project should state the sampling or inference target, justify the likelihood and any priors, show posterior or output diagnostics, and distinguish numerical sampling uncertainty from physical or measurement uncertainty.
+**Project 4 plan:** An open-ended Monte Carlo or inference project such as Monte Carlo uncertainty propagation or Bayesian inference for a physics model. The project should state the sampling or inference target, justify the likelihood and any priors, show posterior or output diagnostics, and distinguish numerical sampling uncertainty from physical or measurement uncertainty.
 
 ## Unit 5: Capstone Project
 
