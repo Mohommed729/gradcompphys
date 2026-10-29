@@ -72,12 +72,12 @@ The four unit assignments are primarily Jupyter notebooks with guided exercises 
 
 | Date | Lecture and working focus | Milestone |
 | --- | --- | --- |
-| Tue, Oct. 27 | [Monte Carlo sampling and integration; pseudorandom generators, error scaling, and variance reduction](./lectures/lecture15_10_27_26_monte_carlo.ipynb) | Introduce Assignment 4 |
-| Thu, Oct. 29 | [Stochastic Ramsey experiments and Monte Carlo uncertainty propagation](./lectures/lecture16_10_29_26_stochastic_uncertainty.ipynb) |  |
+| Tue, Oct. 27 | [Monte Carlo sampling and integration; pseudorandom generators, error scaling, and variance reduction](./lectures/lecture15_10_27_26_monte_carlo.ipynb) |  |
+| Thu, Oct. 29 | [Stochastic Ramsey experiments and Monte Carlo uncertainty propagation](./lectures/lecture16_10_29_26_stochastic_uncertainty.ipynb) | Assignment 4 available |
 | Tue, Nov. 3 | No lecture (Election Day) |  |
-| Thu, Nov. 5 | [Likelihoods, priors, grid posteriors, marginalization, credible intervals, and MAP estimation](./lectures/lecture17_11_5_26_bayesian_inference.ipynb) | Assignment 4 due; introduce Project 4 |
-| Tue, Nov. 10 | [Metropolis-Hastings MCMC, autocorrelation, effective sample size, and convergence diagnostics](./lectures/lecture18_11_10_26_mcmc_diagnostics.ipynb) | Project 4 checkpoint |
-| Thu, Nov. 12 | [Posterior predictive checks, prior sensitivity, scientific reporting, and normalizing flows](./lectures/lecture19_11_12_26_model_checking_flows.ipynb) | Project 4 due |
+| Thu, Nov. 5 | [Likelihoods, priors, grid posteriors, marginalization, credible intervals, and MAP estimation](./lectures/lecture17_11_5_26_bayesian_inference.ipynb) |  |
+| Tue, Nov. 10 | [Metropolis-Hastings MCMC, autocorrelation, effective sample size, and convergence diagnostics](./lectures/lecture18_11_10_26_mcmc_diagnostics.ipynb) | Assignment 4 due; introduce Project 4 |
+| Thu, Nov. 12 | [Posterior predictive checks, prior sensitivity, scientific reporting, and normalizing flows](./lectures/lecture19_11_12_26_model_checking_flows.ipynb) |  |
 
 <!--
 **Assignment 4 plan:** A guided notebook that estimates an integral or physical quantity by sampling, propagates uncertain inputs through a nonlinear model, and uses a small MCMC analysis to visualize and diagnose a posterior. Students should report sampling error and discuss at least one diagnostic limitation.
